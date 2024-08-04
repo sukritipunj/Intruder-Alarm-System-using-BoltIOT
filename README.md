@@ -1,4 +1,6 @@
 # Intruder-Alarm-System-using-BoltIOT
+<div align = center><img width="600" height="400" alt="bolt"  src="https://github.com/user-attachments/assets/3a71e5d4-87e8-4aca-a288-528f6238f836"></div>
+
 Security system using Microcontroller : 
 an IOT-based program to detect and notify about rogue intruders by creating a circuit using Bolt Microcontroller, LDR and buzzer.
 
@@ -8,29 +10,33 @@ The core of this system is a circuit that I designed with a Light Dependent Resi
 
 By placing the sensor at the entrance of the room under a constant light source such that whenever there are any signs of rogue-activity and a shadow falls on the LDR sensor, the cicuit can easily catch the irregularity and launch the buzzer-alarm through the Bolt Microcontroller and cloud-connection followed by an sms-notification to the user's phone. This system can be deployed to ensure security both in a domestic or an industrial environment.
 
-Hardware Components Used :
-   Bolt WiFi Module
-   Light Dependent Resistor (LDR)
-   Buzzer
-   10kohm resister
-   Breadboard
-   USB cable
-   connecting wires (male and female)
+## Hardware Components Used :<ul>
+  <li>Bolt WiFi Module </li>
+  <li>Light Dependent Resistor (LDR) </li>
+  <li>Buzzer </li>
+  <li>10kohm resister </li>
+  <li>Breadboard </li>
+  <li>USB cable </li>
+  <li>connecting wires (male and female) </li>
+  </ul>
 
-Online services Used : 
-<img width="89" alt="bolt" src="https://github.com/user-attachments/assets/4e9b4ff5-2e2d-4420-bfec-c234e5527f97">
-<img width="148" alt="twilio" src="https://github.com/user-attachments/assets/860b8d90-1185-44f8-965c-cb60015b3cb8">
+## Online services Used : <ul>
+<li><img width="89" alt="bolt"  src="https://github.com/user-attachments/assets/4e9b4ff5-2e2d-4420-bfec-c234e5527f97"> Bolt Cloud</li>
+<li><img width="148" alt="twilio" src="https://github.com/user-attachments/assets/860b8d90-1185-44f8-965c-cb60015b3cb8"> </li>
+</ul>
 
-Hardware Design :
-![project schematics](https://github.com/user-attachments/assets/3224c684-d3a4-4203-804e-9ad7c54948a3)
+## Hardware Design :
 
-Connections : 
-![connections](https://github.com/user-attachments/assets/3a71e5d4-87e8-4aca-a288-528f6238f836)
+<img width="600" height="400" alt="cloud connection" src="https://github.com/user-attachments/assets/3224c684-d3a4-4203-804e-9ad7c54948a3">
 
-Bolt Cloud Connection :
+## Connections : 
+
+<img width="600" height="400" alt="bolt"  src="https://github.com/user-attachments/assets/3a71e5d4-87e8-4aca-a288-528f6238f836">
+
+## Bolt Cloud Connection :
 <img width="996" alt="cloud connection" src="https://github.com/user-attachments/assets/1b82a9cd-40e8-4e16-bffc-4e8a5c3c1ac1">
 
-SMS Notification :
-<img width="350" alt="sms notification" src="https://github.com/user-attachments/assets/0d9ed277-c141-45ed-a7ac-6d5c45bc8a5d">
+## SMS Notification :
+<div align= center><img width="350" alt="sms notification" src="https://github.com/user-attachments/assets/0d9ed277-c141-45ed-a7ac-6d5c45bc8a5d"></div>
 
 
